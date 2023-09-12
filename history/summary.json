@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 128,
-    "timeWeek": 151,
-    "timeMonth": 153,
-    "timeYear": 153,
-    "dailyMinutesDown": {}
+    "time": 650,
+    "timeDay": 3375,
+    "timeWeek": 960,
+    "timeMonth": 650,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "Miniflux",
