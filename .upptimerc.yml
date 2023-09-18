@@ -13,6 +13,7 @@ sites:
     url: https://szzn.dev
   - name: Bark
     url: $BARK
+    icon: https://s3.bmp.ovh/imgs/2023/09/18/8a1ac42b30390930.png
     expectedStatusCodes:
       - 200
       - 201
