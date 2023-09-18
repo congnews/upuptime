@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "让我看看谁挂了？"
-  introMessage: **欢迎来到我的监控网站！实时监控各个项目的运行情况。**
+  introMessage: "**欢迎来到我的监控网站！实时监控各个项目的运行情况。**"
   navbar:
     - title: Status
       href: /
