@@ -11,7 +11,12 @@ sites:
     url: https://miniflux.cong.news
   - name: TTRss
     url: https://szzn.dev
-
+  - name: Bark
+    url: $BARK
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
