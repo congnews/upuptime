@@ -4,7 +4,7 @@ repo: upuptime # The name of this repository
 
 sites:
   - name: RSSHub
-    url: https://rsshub.app
+    url: $RSSHUB
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Miniflux
