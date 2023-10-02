@@ -53,19 +53,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fresh-rss",
     "status": "up",
-    "uptime": "3.31%",
-    "uptimeDay": "3.31%",
-    "uptimeWeek": "3.31%",
-    "uptimeMonth": "3.31%",
-    "uptimeYear": "3.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 409,
     "timeDay": 409,
     "timeWeek": 409,
     "timeMonth": 409,
     "timeYear": 409,
-    "dailyMinutesDown": {
-      "2023-10-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bark",
