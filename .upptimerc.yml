@@ -6,7 +6,7 @@ sites:
   - name: RSSHub
     url: $RSSHUB
   - name: Miniflux
-    url: $Miniflux
+    url: $MINIFLUX
   - name: FreshRSS
     url: $FRESHRSS
   - name: Bark
