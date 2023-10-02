@@ -5,12 +5,10 @@ user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 sites:
   - name: RSSHub
     url: $RSSHUB
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Miniflux
-    url: https://miniflux.cong.news
-  - name: TTRss
-    url: https://szzn.dev
+    url: $Miniflux
+  - name: FreshRSS
+    url: $FreshRSS
   - name: Bark
     url: $BARK
     icon: https://s3.bmp.ovh/imgs/2023/09/18/8a1ac42b30390930.png
@@ -18,8 +16,13 @@ sites:
       - 200
       - 201
       - 404
+  - name: RSS Translator
+    url: https://www.rsstranslator.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
   - name: OpenL
     url: https://openl.club
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
