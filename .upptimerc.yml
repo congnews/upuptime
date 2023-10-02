@@ -5,10 +5,13 @@ user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 sites:
   - name: RSSHub
     url: $RSSHUB
+    icon: https://s3.bmp.ovh/imgs/2023/10/02/bc42e946381bb8f6.png
   - name: Miniflux
     url: $MINIFLUX
+    icon: https://s3.bmp.ovh/imgs/2023/10/02/48ea1fa9a5740b1b.png
   - name: FreshRSS
     url: $FRESHRSS
+    icon: https://s3.bmp.ovh/imgs/2023/10/02/236088cc88f4df96.png
   - name: Bark
     url: $BARK
     icon: https://s3.bmp.ovh/imgs/2023/09/18/8a1ac42b30390930.png
