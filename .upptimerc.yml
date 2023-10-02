@@ -8,7 +8,7 @@ sites:
   - name: Miniflux
     url: $Miniflux
   - name: FreshRSS
-    url: $FreshRSS
+    url: $FRESHRSS
   - name: Bark
     url: $BARK
     icon: https://s3.bmp.ovh/imgs/2023/09/18/8a1ac42b30390930.png
