@@ -77,19 +77,19 @@
     "url": "$BARK",
     "icon": "https://s3.bmp.ovh/imgs/2023/09/18/8a1ac42b30390930.png",
     "slug": "bark",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 456,
-    "timeWeek": 497,
-    "timeMonth": 464,
-    "timeYear": 457,
+    "time": 460,
+    "timeDay": 622,
+    "timeWeek": 533,
+    "timeMonth": 474,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 7
     }
   },
   {
