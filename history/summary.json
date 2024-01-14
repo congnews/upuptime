@@ -34,11 +34,11 @@
     "icon": "https://s3.bmp.ovh/imgs/2023/10/02/48ea1fa9a5740b1b.png",
     "slug": "miniflux",
     "status": "up",
-    "uptime": "96.98%",
+    "uptime": "96.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.98%",
+    "uptimeYear": "96.99%",
     "time": 777,
     "timeDay": 626,
     "timeWeek": 542,
@@ -115,9 +115,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,7 +126,9 @@
     "timeWeek": 187,
     "timeMonth": 203,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "OpenL",
