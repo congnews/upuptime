@@ -12,7 +12,7 @@
     "uptimeYear": "99.24%",
     "time": 1185,
     "timeDay": 869,
-    "timeWeek": 4192,
+    "timeWeek": 4626,
     "timeMonth": 2320,
     "timeYear": 1185,
     "dailyMinutesDown": {
@@ -79,9 +79,9 @@
     "url": "$BARK",
     "icon": "https://s3.bmp.ovh/imgs/2023/09/18/8a1ac42b30390930.png",
     "slug": "bark",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
@@ -91,6 +91,7 @@
     "timeMonth": 509,
     "timeYear": 471,
     "dailyMinutesDown": {
+      "2024-02-21": 0,
       "2024-02-11": 61
     }
   },
