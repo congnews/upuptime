@@ -61,19 +61,19 @@
     "url": "$FRESHRSS",
     "icon": "https://s3.bmp.ovh/imgs/2023/10/02/236088cc88f4df96.png",
     "slug": "fresh-rss",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 0,
-    "timeWeek": 512,
-    "timeMonth": 522,
-    "timeYear": 592,
+    "time": 736,
+    "timeDay": 24800,
+    "timeWeek": 4560,
+    "timeMonth": 1389,
+    "timeYear": 736,
     "dailyMinutesDown": {
-      "2024-03-17": 0
+      "2024-03-17": 7
     }
   },
   {
