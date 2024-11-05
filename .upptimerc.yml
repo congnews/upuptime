@@ -20,11 +20,13 @@ sites:
       - 201
       - 404
   - name: RSS Translator
-    url: https://www.rsstranslator.com
+    url: $RSS-Translator
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: OpenL
     url: https://openl.club
+  - name: RSSHub.app
+    url: https://rsshub.app
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
