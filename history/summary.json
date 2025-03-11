@@ -147,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-translator",
     "status": "down",
-    "uptime": "40.05%",
+    "uptime": "40.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "13.67%",
+    "uptimeYear": "13.61%",
     "time": 138,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-03-11": 9,
+      "2025-03-11": 340,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -500,9 +500,9 @@
     "url": "https://openl.club",
     "icon": "https://icons.duckduckgo.com/ip3/openl.club.ico",
     "slug": "open-l",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -511,7 +511,9 @@
     "timeWeek": 138,
     "timeMonth": 144,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 0
+    }
   },
   {
     "name": "RSSHub.app",
