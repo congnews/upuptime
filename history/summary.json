@@ -150,7 +150,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-translator",
     "status": "down",
-    "uptime": "35.05%",
+    "uptime": "35.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -161,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-05-25": 10,
+      "2025-05-25": 447,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -569,17 +569,19 @@
     "url": "https://rsshub.app",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.app.ico",
     "slug": "rss-hub-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1278,
-    "timeDay": 194,
+    "time": 1273,
+    "timeDay": 195,
     "timeWeek": 198,
     "timeMonth": 198,
-    "timeYear": 1278,
-    "dailyMinutesDown": {}
+    "timeYear": 1273,
+    "dailyMinutesDown": {
+      "2025-05-25": 1
+    }
   }
 ]
