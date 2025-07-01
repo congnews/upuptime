@@ -13,7 +13,7 @@
     "time": 734,
     "timeDay": 718,
     "timeWeek": 632,
-    "timeMonth": 746,
+    "timeMonth": 747,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-02-08": 26,
@@ -79,7 +79,7 @@
     "time": 577,
     "timeDay": 471,
     "timeWeek": 551,
-    "timeMonth": 541,
+    "timeMonth": 544,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2025-03-13": 818,
@@ -105,7 +105,7 @@
     "time": 780,
     "timeDay": 768,
     "timeWeek": 697,
-    "timeMonth": 1001,
+    "timeMonth": 1011,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2024-11-15": 16,
@@ -129,7 +129,7 @@
     "time": 653,
     "timeDay": 637,
     "timeWeek": 628,
-    "timeMonth": 639,
+    "timeMonth": 643,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2025-03-13": 287,
@@ -146,10 +146,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-translator",
     "status": "down",
-    "uptime": "33.02%",
+    "uptime": "33.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 126,
     "timeDay": 0,
@@ -157,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-06-30": 1412,
+      "2025-07-01": 11,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -520,8 +521,7 @@
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -538,7 +538,7 @@
     "time": 231,
     "timeDay": 123,
     "timeWeek": 205,
-    "timeMonth": 225,
+    "timeMonth": 226,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -556,7 +556,7 @@
     "time": 158,
     "timeDay": 92,
     "timeWeek": 181,
-    "timeMonth": 179,
+    "timeMonth": 178,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -566,18 +566,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.app.ico",
     "slug": "rss-hub-app",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.89%",
     "time": 2496,
     "timeDay": 202,
     "timeWeek": 2894,
-    "timeMonth": 5679,
+    "timeMonth": 5740,
     "timeYear": 2496,
     "dailyMinutesDown": {
-      "2025-06-30": 9,
       "2025-06-24": 75,
       "2025-06-21": 28,
       "2025-06-20": 79,
