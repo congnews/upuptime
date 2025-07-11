@@ -146,7 +146,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-translator",
     "status": "down",
-    "uptime": "32.51%",
+    "uptime": "32.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -157,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-07-10": 1428,
+      "2025-07-11": 10,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -520,8 +521,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   },
   {
@@ -567,9 +567,9 @@
     "slug": "rss-hub-app",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.87%",
     "time": 2632,
     "timeDay": 1974,
@@ -577,7 +577,6 @@
     "timeMonth": 5128,
     "timeYear": 2632,
     "dailyMinutesDown": {
-      "2025-07-10": 7,
       "2025-07-07": 30,
       "2025-07-05": 37,
       "2025-07-04": 15,
