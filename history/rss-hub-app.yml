@@ -1,7 +1,7 @@
 url: https://rsshub.app
-status: up
-code: 200
-responseTime: 267
-lastUpdated: 2025-07-26T16:35:51.225Z
+status: down
+code: 502
+responseTime: 25219
+lastUpdated: 2025-07-26T19:00:26.077Z
 startTime: 2024-11-05T13:36:18.987Z
 generator: Upptime <https://github.com/upptime/upptime>
