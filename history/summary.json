@@ -154,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-08-05": 1133,
+      "2025-08-05": 1143,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -544,19 +544,19 @@
     "url": "https://openl.club",
     "icon": "https://icons.duckduckgo.com/ip3/openl.club.ico",
     "slug": "open-l",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 561,
-    "timeWeek": 247,
-    "timeMonth": 174,
+    "timeDay": 399,
+    "timeWeek": 245,
+    "timeMonth": 176,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-08-05": 1
+      "2025-08-05": 11
     }
   },
   {
