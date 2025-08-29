@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.50%",
+    "uptimeYear": "93.51%",
     "time": 752,
     "timeDay": 662,
     "timeWeek": 760,
@@ -156,7 +156,7 @@
     "timeMonth": 0,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-08-29": 355,
+      "2025-08-29": 432,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -546,9 +546,9 @@
     "url": "https://openl.club",
     "icon": "https://icons.duckduckgo.com/ip3/openl.club.ico",
     "slug": "open-l",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -558,6 +558,7 @@
     "timeMonth": 216,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-08-25": 22
     }
   },
@@ -568,9 +569,9 @@
     "slug": "rss-hub-app",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.78%",
     "time": 2545,
     "timeDay": 6678,
@@ -578,7 +579,6 @@
     "timeMonth": 2403,
     "timeYear": 2545,
     "dailyMinutesDown": {
-      "2025-08-29": 7,
       "2025-08-24": 57,
       "2025-08-19": 39,
       "2025-08-15": 47,
