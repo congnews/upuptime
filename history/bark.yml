@@ -1,7 +1,7 @@
 url: $BARK
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-15T16:54:47.281Z
+status: up
+code: 200
+responseTime: 523
+lastUpdated: 2025-11-15T17:11:45.751Z
 startTime: 2023-09-18T08:38:51.622Z
 generator: Upptime <https://github.com/upptime/upptime>
